@@ -1,0 +1,1 @@
+A scheduling app for small groups
