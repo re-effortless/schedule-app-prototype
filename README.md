@@ -1,2 +1,2 @@
-A scheduling app for small groups (SPA prototype)
-Preview on https://re-effortless.github.io/schedule-app-prototype/
+A scheduling app for small groups (SPA prototype)  
+[Preview](https://re-effortless.github.io/schedule-app-prototype/)
