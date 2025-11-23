@@ -1,11 +1,13 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite' // ← 追加1
+import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/schedule-app-prototype/',
+  
   plugins: [
     react(),
-    tailwindcss(), // ← 追加2
+    tailwindcss(),
   ],
 })
